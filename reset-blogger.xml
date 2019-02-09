@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<!DOCTYPE html>
+
+<html>
+
+  <head>
+    <title>Reset Tema Blogger</title>
+    <b:skin><![CDATA[ ]]></b:skin>
+  </head>
+
+  <body>
+    <b:section id='bloggerjx'/> 
+  </body>
+
+</html>
